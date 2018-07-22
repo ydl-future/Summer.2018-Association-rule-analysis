@@ -39,7 +39,7 @@
 > 
 > 注: If a rule contains zero literal, its body is satisfied by any tuple.
 
-##2.2 两个重要的分类器：CBA、CMAR
+## 2.2 两个重要的分类器：CBA、CMAR
 #### CBA：
 
 1. 根据某支持度、置信度阈生成一些候选规则。
